@@ -1,0 +1,7 @@
+{
+  "name": "KaamChowk",
+  "description": "A digital labour marketplace connecting daily wage workers with employers in India.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
